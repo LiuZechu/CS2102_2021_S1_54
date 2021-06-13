@@ -6,7 +6,7 @@ Petopia is a Pet Care Service platform where users can sign up as pet owners or 
 The Final Report `CS2102 Project Final Report Team 54.pdf` can be found in the root directory of this repository, or can be accessed [here](https://github.com/NUS-CS2102-Database-Systems/CS2102_2021_S1_54/blob/master/CS2102%20Project%20Final%20Report%20Team%2054.pdf).
 
 ## Deployment
-This project is publicly accessible at [https://pet-care-service.herokuapp.com/](https://pet-care-service.herokuapp.com/)(**may take 30s to load initially** as it is hosted on a free-tier dyno on Heroku).
+This project is publicly accessible at [https://pet-care-service.herokuapp.com/](https://pet-care-service.herokuapp.com/) (**may take 30s to load initially** as it is hosted on a free-tier dyno on Heroku).
 
 You may also view our demo video at [https://youtu.be/WvYvcUh5QSs](https://youtu.be/WvYvcUh5QSs).
 
